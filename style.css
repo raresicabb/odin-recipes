@@ -1,0 +1,19 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.title,.description{
+    text-align: center;
+}
+
+.image{
+    display: block;
+    margin: auto;
+    height: auto;
+    width: 550px;
+}
+
+
+
